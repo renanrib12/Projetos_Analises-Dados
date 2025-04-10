@@ -53,6 +53,7 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 
 * Qual é a maior e a menor gorjeta registrada para cada dia de expediente? 
 
+>Entre as gorjetas mais altas, sábado é o dia que conteve a maior gorjeta entre os outros. Porém também é o dia com a maior variação de gorjeta. Enquanto nas gorjetas mais baixas, sexta é o dia que conteve a menor gorjeta, assim como também a menor variação de gorjetas.
 &nbsp;
 
 <div align='center'>
@@ -67,6 +68,7 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 
 * Qual é a média de gorjetas por sexo? 
 
+> Clientes homens costumam dar mais gorjeta que clientes mulheres, porém a variação é muito pequena, de aproximadamente $0,25.
 &nbsp;
 
 <div align='center'>
