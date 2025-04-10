@@ -36,8 +36,9 @@ O conjunto de dados contém **244 registros** com as seguintes colunas:
 
 Os scripts das análises podem ser acessados no arquivo [analise.sql](https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/analise.sql).
 
-* Qual foi o total de gorjetas no período analisado? -
-  
+* Qual foi o total de gorjetas no período analisado? 
+
+>O total de gorjetas foi de $731,58.
 &nbsp;
 
 <div align='center'>
@@ -45,19 +46,92 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 </div>
 
 <div align='center'>
-<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem02.jpeg" width="60%"/>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem02.jpeg" width="40%"/>
 </div>
 
 &nbsp;
 
-* Qual é a maior e a menor gorjeta registrada para cada dia de expediente? -
+* Qual é a maior e a menor gorjeta registrada para cada dia de expediente? 
 
-* Qual é a média de gorjetas por sexo? -
+&nbsp;
 
-* Grupos maiores dão mais gorjeta? -
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem03.jpeg" width="60%"/>
+</div>
 
-* Qual dia da semana arrecada mais gorjeta? -
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem04.jpeg" width="40%"/>
+</div>
 
-* A média de gorjetas é maior por ser fumante? -
+&nbsp;
 
-* Tem correlação entre o valor total da conta e o valor da gorjeta? -
+* Qual é a média de gorjetas por sexo? 
+
+&nbsp;
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem05.jpeg" width="60%"/>
+</div>
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem06.jpeg" width="40%"/>
+</div>
+
+&nbsp;
+
+* Grupos maiores dão mais gorjeta? 
+
+&nbsp;
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem07.jpeg" width="60%"/>
+</div>
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem08.jpeg" width="40%"/>
+</div>
+
+&nbsp;
+
+* Qual dia da semana arrecada mais gorjeta? 
+
+&nbsp;
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem09.jpeg" width="60%"/>
+</div>
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem10.jpeg" width="40%"/>
+</div>
+
+&nbsp;
+
+* A média de gorjetas é maior por ser fumante? 
+
+&nbsp;
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem11.jpeg" width="40%"/>
+</div>
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem12.jpeg" width="50%"/>
+</div>
+
+&nbsp;
+
+* Tem correlação entre o valor total da conta e o valor da gorjeta? 
+
+&nbsp;
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem13.jpeg" width="70%"/>
+</div>
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem14.jpeg" width="40%"/>
+</div>
+
+&nbsp;
+
