@@ -66,6 +66,21 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 
 &nbsp;
 
+* Qual dia da semana arrecada mais gorjeta? 
+
+>Sábado é o dia que mais arrecada gorjetas, seguido de Domingo e Quinta-feira, respectivamente.
+&nbsp;
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/top3%20dias.png" width="60%"/>
+</div>
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem10.jpeg" width="40%"/>
+</div>
+
+&nbsp;
+
 * Qual é a média de gorjetas por sexo? 
 
 > Clientes homens costumam dar mais gorjeta que clientes mulheres, porém a variação é muito pequena, de aproximadamente $0,25.
@@ -91,21 +106,6 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 
 <div align='center'>
 <img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem08.jpeg" width="40%"/>
-</div>
-
-&nbsp;
-
-* Qual dia da semana arrecada mais gorjeta? 
-
->Sábado é o dia que mais arrecada gorjetas, seguido de Domingo e Quinta-feira, respectivamente.
-&nbsp;
-
-<div align='center'>
-<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/top3%20dias.png" width="60%"/>
-</div>
-
-<div align='center'>
-<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem10.jpeg" width="40%"/>
 </div>
 
 &nbsp;
