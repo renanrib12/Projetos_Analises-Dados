@@ -81,6 +81,21 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 
 &nbsp;
 
+* Qual horário arrecada mais gorjeta? 
+
+> No horário da janta as gorjetas costumam ser aproximadamente $0,30 maior do que no horário do almoço.
+&nbsp;
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/horario.png" width="60%"/>
+</div>
+
+<div align='center'>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem15.jpeg" width="40%"/>
+</div>
+
+&nbsp;
+
 * Qual é a média de gorjetas por sexo? 
 
 > Clientes homens costumam dar mais gorjeta que clientes mulheres, porém a variação é muito pequena, de aproximadamente $0,25.
@@ -140,3 +155,12 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 
 &nbsp;
 
+## Relatório
+
+Ao analisar os padrões entre o perfil e os gastos dos clientes, podemos destacar os pontos a seguir.
+
+* **Estratégias a serem consideradas**:
+
+  - Por Sábado e Domingo serem os dias com o maior volume de gorjetas, é interessante focar em promoções ou eventos, em especial no horario do jantar, para atrair um número maior de clientes.
+  - Pelo fato de grupos maiores gerarem gorjetas mais altas, é interessante incentivar atendimento personalizado a grupos maiores.
+  - Por existir uma correlação moderada entre o valor da conta e a gorjeta, sugere-se que aumentar o ticket médio pode impactar positivamente a arrecadação das gorjetas.
