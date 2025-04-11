@@ -42,7 +42,7 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem01.jpeg" width="60%"/>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/total%20gorjeta.png" width="60%"/>
 </div>
 
 <div align='center'>
@@ -57,7 +57,7 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem03.jpeg" width="60%"/>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/maior%20e%20menor.png" width="60%"/>
 </div>
 
 <div align='center'>
@@ -72,7 +72,7 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem05.jpeg" width="60%"/>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/media%20sex.png" width="60%"/>
 </div>
 
 <div align='center'>
@@ -86,7 +86,7 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem07.jpeg" width="60%"/>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/size.png" width="60%"/>
 </div>
 
 <div align='center'>
@@ -100,7 +100,7 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem09.jpeg" width="60%"/>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/top3%20dias.png" width="60%"/>
 </div>
 
 <div align='center'>
@@ -114,7 +114,7 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem11.jpeg" width="40%"/>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/fumantes.png" width="60%"/>
 </div>
 
 <div align='center'>
@@ -128,7 +128,7 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/imagem13.jpeg" width="70%"/>
+<img src="https://github.com/renanrib12/Projetos_Analises-Dados/blob/main/Projetos/Projeto%201/imagens/cpearson.png" width="70%"/>
 </div>
 
 <div align='center'>
