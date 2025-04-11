@@ -82,7 +82,7 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 &nbsp;
 
 * Grupos maiores dão mais gorjeta? 
-
+>Sim. Há uma tendência de que quanto maior o grupo, maior a gorjeta, embora haja uma certa proximidade entre os grupos compostos por 4 e 5 pessoas.
 &nbsp;
 
 <div align='center'>
@@ -97,6 +97,7 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 
 * Qual dia da semana arrecada mais gorjeta? 
 
+>Sábado é o dia que mais arrecada gorjetas, seguido de Domingo e Quinta-feira, respectivamente.
 &nbsp;
 
 <div align='center'>
@@ -109,8 +110,9 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 
 &nbsp;
 
-* A média de gorjetas é maior por ser fumante? 
+* A média de gorjetas é maior por ser fumante?
 
+>Há pouquissima variação entre a média de gorjeta de fumantes e não fumantes. Nesse caso, podemos considerar que as médias são aproximadamente iguais.
 &nbsp;
 
 <div align='center'>
@@ -125,6 +127,7 @@ Os scripts das análises podem ser acessados no arquivo [analise.sql](https://gi
 
 * Tem correlação entre o valor total da conta e o valor da gorjeta? 
 
+>De acordo com o coeficiente de correlação de Pearson, há uma leve correlação entre o total da conta e o valor de gorjeta pago por cliente.
 &nbsp;
 
 <div align='center'>
