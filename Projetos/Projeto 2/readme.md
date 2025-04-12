@@ -35,7 +35,7 @@ Os scripts de adaptação da tabela estão no arquivo [Adaptação.sql]().
 * **item_id**: Identificador do produto.
 * **name**: Nome do produto.
 * **brand**: Marca do produto.
-* **variant**: Varianção do produto.
+* **variant**: Variação do produto.
 * **category**: Categoria do produto.
 * **price_in_usd**: Preço do produto em dólares americanos.
 
